@@ -30,7 +30,7 @@ function formatTitleFromURL(url: string): string {
 presence.on('UpdateData', async () => {
   const { pathname, href } = document.location
   const presenceData: PresenceData = {
-    largeImageKey: 'https://i.ibb.co/s9vYjfwR/image.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/C/Chorki/assets/logo.png',
     type: ActivityType.Watching,
   }
 
