@@ -8,8 +8,8 @@ let prevURL: string
 let browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  AirlinesLogo = 'https://i.imgur.com/qzVtg9J.png',
-  Logo = 'https://i.imgur.com/wlrkuSA.jpeg',
+  AirlinesLogo = 'https://cdn.rcd.gg/PreMiD/websites/N/Nexon/assets/0.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/N/Nexon/assets/1.jpeg',
 }
 
 presence.on('UpdateData', async () => {
