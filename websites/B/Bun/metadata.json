@@ -10,9 +10,9 @@
     "en": "A fast all-in-one JavaScript runtime"
   },
   "url": "bun.sh",
-  "version": "1.0.0",
-  "logo": "https://litomore.me/images/bun.512.png",
-  "thumbnail": "https://litomore.me/images/bun-og.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/B/Bun/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/B/Bun/assets/thumbnail.png",
   "color": "#000000",
   "category": "other",
   "tags": [
