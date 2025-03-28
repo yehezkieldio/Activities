@@ -10,8 +10,8 @@ const strings = presence.getStrings({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/cSmc3k0.png',
-  LogoPop = 'https://i.imgur.com/WysR2og.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/W/Wave%20FM/assets/logo.png',
+  LogoPop = 'https://cdn.rcd.gg/PreMiD/websites/W/Wave%20FM/assets/0.png',
 }
 
 presence.on('UpdateData', async () => {
