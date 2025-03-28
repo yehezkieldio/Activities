@@ -37,7 +37,7 @@ setInterval(() => {
 }, 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/myu7ChX.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/V/VocaDB/assets/logo.png',
 }
 
 presence.on(

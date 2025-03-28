@@ -9,10 +9,14 @@
   "description": {
     "en": "VocaDB is a Vocaloid music database with translated artists, albums and songs."
   },
-  "url": ["vocadb.net", "wiki.vocadb.net", "blog.vocadb.net"],
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/myu7ChX.png",
-  "thumbnail": "https://i.imgur.com/7EQ33WK.jpeg",
+  "url": [
+    "vocadb.net",
+    "wiki.vocadb.net",
+    "blog.vocadb.net"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/V/VocaDB/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/V/VocaDB/assets/thumbnail.jpeg",
   "color": "#0088cc",
   "category": "music",
   "tags": [
