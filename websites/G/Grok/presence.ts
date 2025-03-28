@@ -22,8 +22,8 @@ let oldLang: string | null = null
 let strings: Awaited<ReturnType<typeof getStrings>>
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/bfxEiFr.png',
-  Talking = 'https://i.imgur.com/ocYd337.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/G/Grok/assets/logo.png',
+  Talking = 'https://cdn.rcd.gg/PreMiD/websites/G/Grok/assets/0.png',
 }
 
 presence.on('UpdateData', async () => {
