@@ -1,6 +1,9 @@
+import { PrivacyUI } from './util/PrivacyUI.js'
+
 const presence = new Presence({
   clientId: '1102935778570547282',
 })
+
 async function getStrings() {
   return presence.getStrings({
     ai: 'chatgpt.ai',
@@ -19,6 +22,7 @@ async function getStrings() {
     viewingAGPT: 'chatgpt.viewingAGPT',
   })
 }
+
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
@@ -54,8 +58,9 @@ presence.on('UpdateData', async () => {
       ?.replace(/(, )|(,\n)|(,)|(\. )|(\.)/g, ' ')
       // eslint-disable-next-line regexp/no-dupe-disjunctions
       .replace(/(\d*)|(\/)|(')|(,)|( )/g, '')
-    if (text)
+    if (text) {
       wordCount += text.split(' ').slice(2, text.split(' ').length).length
+    }
   }
 
   if (document.location.hash.includes('#settings')) {
@@ -66,14 +71,15 @@ presence.on('UpdateData', async () => {
     presenceData.details = strings.pricing
   }
   else if (pathname.split('/')[1] === 'c') {
+    const chatPrivacy = new PrivacyUI(pathname.split('/')[2]!)
     // check if the document title is the default title. If so, get the chat title from the UI. Otherwise, get it from the document title
-    if (document.title === 'ChatGPT' && showTitle) {
+    if (document.title === 'ChatGPT' && showTitle && !chatPrivacy.getIsHidden()) {
       presenceData.details = document.querySelector(
         `[href="${pathname}"]`,
       )?.textContent
     }
     else {
-      presenceData.details = showTitle ? document.title : (showGPTName ? strings.talkingWithAI.replace('{0}', gptName ?? strings.ai) : strings.talkingWithAI.replace('{0}', strings.ai))
+      presenceData.details = showTitle && !chatPrivacy.getIsHidden() ? document.title : (showGPTName ? strings.talkingWithAI.replace('{0}', gptName ?? strings.ai) : strings.talkingWithAI.replace('{0}', strings.ai))
     }
 
     presenceData.state = isTalking
@@ -95,7 +101,8 @@ presence.on('UpdateData', async () => {
     presenceData.state = strings.thinkingOfPrompt
 
     if (pathname.split('/')[3] === 'c') {
-      if (document.querySelector('div.group\\/sidebar') && showTitle) {
+      const chatPrivacy = new PrivacyUI(pathname.split('/')[4]!)
+      if (document.querySelector('div.group\\/sidebar') && showTitle && !chatPrivacy.getIsHidden()) {
         presenceData.details = document.querySelector(
           `[href="${pathname}"]`,
         )?.textContent
