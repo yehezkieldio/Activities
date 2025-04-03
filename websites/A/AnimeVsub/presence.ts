@@ -20,7 +20,7 @@ async function getStrings() {
 }
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/GXPcBZj.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/AnimeVsub/assets/logo.png',
 }
 
 async function updatePresence() {
