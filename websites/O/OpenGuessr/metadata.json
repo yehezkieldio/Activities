@@ -19,9 +19,9 @@
     "play.openguessr.com"
   ],
   "regExp": "([a-z0-9-]+[.])*openguessr[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/rfxNBp1d/openguessr-icon.png",
-  "thumbnail": "https://i.imgur.com/Ttplphu.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/OpenGuessr/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/OpenGuessr/assets/thumbnail.png",
   "color": "#f23913",
   "category": "games",
   "tags": [
