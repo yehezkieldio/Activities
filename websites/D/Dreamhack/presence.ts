@@ -4,22 +4,22 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/4MHJBOf.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/logo.png',
 }
 
 const lvlImages: Record<string, string> = {
-  1: 'https://i.imgur.com/TjnuwDc.png',
-  2: 'https://i.imgur.com/xiirapz.png',
-  3: 'https://i.imgur.com/R4z9ePH.png',
-  4: 'https://i.imgur.com/AdJNjRt.png',
-  5: 'https://i.imgur.com/KnUq4x0.png',
-  6: 'https://i.imgur.com/iHY3vtb.png',
-  7: 'https://i.imgur.com/LKbiyIr.png',
-  8: 'https://i.imgur.com/r1RKlw5.png',
-  9: 'https://i.imgur.com/0i82Y3N.png',
-  10: 'https://i.imgur.com/POpSfD1.png',
-  Unranked: 'https://i.imgur.com/OmW5Nj3.png',
-  Beginner: 'https://i.imgur.com/LnW9Oiw.png',
+  1: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/0.png',
+  2: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/1.png',
+  3: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/2.png',
+  4: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/3.png',
+  5: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/4.png',
+  6: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/5.png',
+  7: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/6.png',
+  8: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/7.png',
+  9: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/8.png',
+  10: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/9.png',
+  Unranked: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/10.png',
+  Beginner: 'https://cdn.rcd.gg/PreMiD/websites/D/Dreamhack/assets/11.png',
 }
 
 presence.on('UpdateData', async () => {
