@@ -4,7 +4,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/ha1c7MT.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/I/Imp%C3%A9rio%20Network/assets/logo.png',
 }
 
 async function getStrings() {
