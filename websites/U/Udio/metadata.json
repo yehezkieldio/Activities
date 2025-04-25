@@ -10,9 +10,9 @@
     "en": "Unleash creativity with Udio’s AI-powered music generator. Instantly create unique music, no musical skills required."
   },
   "url": "www.udio.com",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/AVAbNNv.png",
-  "thumbnail": "https://www.udio.com/og-image.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/U/Udio/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/U/Udio/assets/thumbnail.png",
   "color": "#e30b5d",
   "category": "music",
   "tags": [
