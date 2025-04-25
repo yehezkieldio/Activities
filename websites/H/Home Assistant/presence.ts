@@ -6,7 +6,7 @@ const presence = new Presence({
 const startTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://pub-d896e4ce4d21475fab8e7d1c02eded98.r2.dev/home-assistant-logomark.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/H/Home%20Assistant/assets/logo.png',
 }
 
 interface RouteConfig {
