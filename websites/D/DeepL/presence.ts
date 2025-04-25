@@ -24,7 +24,7 @@ function langPair(pair: string, position: number, type: string) {
 }
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/b3ZdPJB.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/D/DeepL/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {
