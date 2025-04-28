@@ -70,7 +70,7 @@ function tabSelection(id: string): string {
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/staaOcB.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/W/WordReference/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {
