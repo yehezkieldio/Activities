@@ -33,7 +33,7 @@ async function getStrings() {
 
 presence.on('UpdateData', async () => {
   const presenceData: PresenceData = {
-    largeImageKey: 'https://i.imgur.com/Cjulwqm.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20Calendar/assets/logo.png',
     startTimestamp: browsingTimestamp,
   }
   const strings = await getStrings()
