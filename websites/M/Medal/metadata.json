@@ -10,9 +10,9 @@
     "en": "Clip & share your gaming moments"
   },
   "url": "medal.tv",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/tF6xSsN.png",
-  "thumbnail": "https://i.imgur.com/SF2rr3N.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/M/Medal/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/M/Medal/assets/thumbnail.png",
   "color": "#ffaf34",
   "category": "videos",
   "tags": [

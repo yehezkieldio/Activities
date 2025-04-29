@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/tF6xSsN.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/Medal/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {
