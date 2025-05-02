@@ -7,7 +7,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://minio.rikztech.my.id/personalized/assets%2FMicrosoft_Logo_512px.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/Microsoft%20Learn/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {

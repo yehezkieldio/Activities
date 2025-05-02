@@ -12,9 +12,9 @@
     "fr": "Microsoft Learn est une plateforme officielle de Microsoft offrant une formation interactive gratuite sur un large éventail de produits et technologies Microsoft, d'Azure à Power Platform."
   },
   "url": "learn.microsoft.com",
-  "version": "1.0.0",
-  "logo": "https://minio.rikztech.my.id/personalized/assets%2FMicrosoft_Logo_512px.png",
-  "thumbnail": "https://minio.rikztech.my.id/personalized/assets%2FbGfL5hu-.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/M/Microsoft%20Learn/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/M/Microsoft%20Learn/assets/thumbnail.png",
   "color": "#FFFFFF",
   "category": "other",
   "tags": [
