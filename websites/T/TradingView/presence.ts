@@ -4,10 +4,10 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  White = 'https://i.imgur.com/f7JLh40.png',
-  WhiteBG = 'https://i.imgur.com/ogCbBzU.png',
-  Black = 'https://i.imgur.com/txwG0bq.png',
-  BlackBG = 'https://i.imgur.com/LthTENs.png',
+  White = 'https://cdn.rcd.gg/PreMiD/websites/T/TradingView/assets/logo.png',
+  WhiteBG = 'https://cdn.rcd.gg/PreMiD/websites/T/TradingView/assets/0.png',
+  Black = 'https://cdn.rcd.gg/PreMiD/websites/T/TradingView/assets/1.png',
+  BlackBG = 'https://cdn.rcd.gg/PreMiD/websites/T/TradingView/assets/2.png',
 }
 
 presence.on('UpdateData', async () => {
