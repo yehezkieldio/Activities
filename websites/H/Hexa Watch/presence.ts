@@ -5,7 +5,7 @@ const presence = new Presence({
 const startTimestamp = Math.floor(Date.now() / 1000)
 
 const ActivityAssets = {
-  Logo: 'https://i.ibb.co/6c2kY3tv/icon.png',
+  Logo: 'https://cdn.rcd.gg/PreMiD/websites/H/Hexa%20Watch/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {
