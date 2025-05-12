@@ -6,15 +6,18 @@
     "name": "vintheweirdass"
   },
   "service": "sekolahmu",
-  "altnames": ["sekolah.mu", "smm"],
+  "altnames": [
+    "sekolah.mu",
+    "smm"
+  ],
   "description": {
     "en": "Sekolah.mu is an education platform for all ages using the blended learning approach",
     "id": "Sekolah.mu adalah platform edukasi untuk semua kalangan dengan pendekatan blended learning"
   },
   "url": "www.sekolah.mu",
-  "version": "1.0.0",
-  "logo": "https://raw.githubusercontent.com/vintheweirdass/sekolahmu-premid-assets/refs/heads/main/images/logo-v2.png",
-  "thumbnail": "https://raw.githubusercontent.com/vintheweirdass/sekolahmu-premid-assets/refs/heads/main/images/banner.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/sekolahmu/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/sekolahmu/assets/thumbnail.png",
   "color": "#ffce2f",
   "category": "other",
   "tags": [

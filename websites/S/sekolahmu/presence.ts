@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 enum ActivityAssets {
-  Logo = 'https://raw.githubusercontent.com/vintheweirdass/sekolahmu-premid-assets/refs/heads/main/images/logo-v2.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/S/sekolahmu/assets/logo.png',
 }
 presence.on('UpdateData', () => {
   // sekolahmu is SSR'ed, so sometimes the previous data can showed up unexpectedly.
