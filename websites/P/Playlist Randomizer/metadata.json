@@ -10,9 +10,9 @@
     "en": "Use playlist-randomizer.com to get the most out of your youtube playlists."
   },
   "url": "playlist-randomizer.com",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/6wNLFVL.png",
-  "thumbnail": "https://playlist-randomizer.com/images/bg/10.jpg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/P/Playlist%20Randomizer/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/P/Playlist%20Randomizer/assets/thumbnail.jpg",
   "color": "#000000",
   "category": "music",
   "tags": [

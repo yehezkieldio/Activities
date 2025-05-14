@@ -8,7 +8,7 @@ const name = 'Playlist Randomizer'
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/6wNLFVL.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/P/Playlist%20Randomizer/assets/logo.png',
 }
 
 enum TitleSelection {
