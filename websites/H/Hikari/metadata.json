@@ -9,11 +9,18 @@
   "description": {
     "en": "Hikari is a platform for streaming and discovering anime content."
   },
-  "url": ["hikari.gg", "www.hikari.gg"],
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/v6j7RyqZ/phy3shaa-1.png",
-  "thumbnail": "https://i.ibb.co/jZG3GRvp/logo-CP3f-Z956.webp",
+  "url": [
+    "hikari.gg",
+    "www.hikari.gg"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/H/Hikari/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/H/Hikari/assets/thumbnail.webp",
   "color": "#ff7e7e",
   "category": "anime",
-  "tags": ["anime", "watching", "streaming"]
+  "tags": [
+    "anime",
+    "watching",
+    "streaming"
+  ]
 }
