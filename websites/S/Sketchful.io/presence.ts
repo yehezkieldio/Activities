@@ -22,7 +22,7 @@ function getCurrentImage() {
 presence.on('UpdateData', async () => {
   const presenceData: PresenceData = {
     name: 'Sketchful.io',
-    largeImageKey: 'https://i.imgur.com/ORnOKkS.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/S/Sketchful.io/assets/logo.png',
     startTimestamp: browsingTimestamp,
   }
   const { pathname, href } = document.location
