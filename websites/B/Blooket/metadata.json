@@ -11,9 +11,9 @@
   },
   "url": "blooket.com",
   "regExp": "([a-z0-9-]+[.])*blooket[.]com[/]?.*",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/R1rPCGV.png",
-  "thumbnail": "https://i.imgur.com/x2NyfbX.jpeg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/B/Blooket/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/B/Blooket/assets/thumbnail.jpeg",
   "color": "#52c2cf",
   "category": "games",
   "tags": [
