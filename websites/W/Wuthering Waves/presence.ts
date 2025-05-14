@@ -15,7 +15,7 @@ function registerSlideshowKey(key: string): boolean {
 }
 
 enum ActivityAssets {
-  Logo = 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/b0/e3/e6b0e320-c0b5-8c6c-b5aa-3b47db549a8d/Client.png/512x0w.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/W/Wuthering%20Waves/assets/logo.png',
 }
 
 function getSelectors(isMobile: boolean) {
