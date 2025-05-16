@@ -1,5 +1,5 @@
 export enum ActivityAssets {
-  Logo = 'https://i.imgur.com/XXdgNCU.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/P/Prydwen%20Institute/assets/logo.png',
 }
 
 export const presence = new Presence({

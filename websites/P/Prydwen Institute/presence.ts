@@ -6,7 +6,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 presence.on('UpdateData', () => {
   const presenceData: PresenceData = {
     name: 'Prydwen Institute',
-    largeImageKey: 'https://i.imgur.com/XXdgNCU.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/P/Prydwen%20Institute/assets/logo.png',
     startTimestamp: browsingTimestamp,
   }
   const { href, pathname, hostname, search } = document.location
