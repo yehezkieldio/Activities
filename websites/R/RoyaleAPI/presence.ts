@@ -10,7 +10,7 @@ import {
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/nqCP2b5.gif',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/R/RoyaleAPI/assets/logo.gif',
 }
 
 let currentData: FrameData | null = null
