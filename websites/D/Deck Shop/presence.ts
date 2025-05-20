@@ -5,7 +5,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 const slideshow = presence.createSlideshow()
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/UxgNHpE.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/D/Deck%20Shop/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {
