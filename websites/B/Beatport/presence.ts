@@ -55,7 +55,7 @@ presence.on('UpdateData', async () => {
     return match?.[1]?.trim() || ''
   }
 
-  let largeImage = 'https://i.imgur.com/jUa0uPY.jpeg'
+  let largeImage = 'https://cdn.rcd.gg/PreMiD/websites/B/Beatport/assets/logo.jpeg'
   let details = 'Viewing Beatport'
   let state = ''
   let activityType = ActivityType.Playing
