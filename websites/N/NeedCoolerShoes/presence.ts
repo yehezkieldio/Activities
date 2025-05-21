@@ -5,7 +5,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 const slideshow = presence.createSlideshow()
 
 enum ActivityAssets {
-  Logo = 'https://needcoolershoes.com/icon.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/N/NeedCoolerShoes/assets/logo.png',
 }
 
 let imageCacheDate = 0
