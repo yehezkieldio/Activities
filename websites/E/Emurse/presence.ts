@@ -4,7 +4,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/gzoRJ80.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/E/Emurse/assets/logo.png',
 }
 
 function capitalize(input: string): string {

@@ -10,9 +10,9 @@
     "en": "Emurse is an app for learning languages that combines instructor led-education with effective self study methods and tools to help you learn as efficiently as possible."
   },
   "url": "emurse.io",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/gzoRJ80.png",
-  "thumbnail": "https://emurseweb.blob.core.windows.net/uploads/99dab236-3b07-422a-9e4b-61a0614590a3-castle-640.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/E/Emurse/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/E/Emurse/assets/thumbnail.png",
   "color": "#766df4",
   "category": "other",
   "tags": [
