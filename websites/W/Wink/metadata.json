@@ -12,9 +12,9 @@
   },
   "url": "wink.ru",
   "regExp": "wink([.][a-z]+)+[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/4mPGGrk.png",
-  "thumbnail": "https://i.imgur.com/EMUhwa7.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/W/Wink/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/W/Wink/assets/thumbnail.png",
   "color": "#ff5a24",
   "category": "videos",
   "tags": [
