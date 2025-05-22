@@ -11,13 +11,21 @@
     "pt": "Acompanhe todos os jogos que já jogou, está jogando e aqueles que estão na sua lista de desejos. Compartilhe seu gosto por jogos e se conecte com mais do que ama.",
     "pt-br": "Acompanhe todos os jogos que você já jogou, está jogando e aqueles que estão na sua lista de desejos. Compartilhe seu gosto por jogos e conecte-se com mais do que você ama."
   },
-  "url": ["rankone.global", "www.rankone.global"],
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/dRN96t2.png",
-  "thumbnail": "https://i.imgur.com/mFBEdpi.png",
+  "url": [
+    "rankone.global",
+    "www.rankone.global"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/R/RankOne/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/R/RankOne/assets/thumbnail.png",
   "color": "#766ae5",
   "category": "games",
-  "tags": ["gaming", "tracking", "reviews", "community"],
+  "tags": [
+    "gaming",
+    "tracking",
+    "reviews",
+    "community"
+  ],
   "settings": [
     {
       "id": "lang",
