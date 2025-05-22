@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 const browsingTimestamp = Math.floor(Date.now() / 1000)
-const DEFAULT_IMAGE = 'https://i.imgur.com/uLMfYgQ.png'
+const DEFAULT_IMAGE = 'https://cdn.rcd.gg/PreMiD/websites/T/Tide%20Radio/assets/logo.png'
 
 function setDefaultPresence(presenceData: PresenceData, state: string) {
   presenceData.details = 'Tide Radio'
