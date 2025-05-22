@@ -13,7 +13,7 @@ let focusStartTS: number | null = null
 function updatePresence() {
   const presenceData: PresenceData = {
     details: 'Idling 💤',
-    largeImageKey: 'https://i.ibb.co/spcHGMsY/undefined-Imgur-removebg-preview-512x512.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/P/Pomofocus/assets/logo.png',
   }
 
   const title = document.title.trim()
