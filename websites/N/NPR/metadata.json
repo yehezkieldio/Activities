@@ -9,10 +9,13 @@
   "description": {
     "en": "NPR is an independent, nonprofit media organization that was founded on a mission to create a more informed public."
   },
-  "url": ["www.npr.org", "text.npr.org"],
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/BdabueB.png",
-  "thumbnail": "https://media.npr.org/assets/img/2024/04/21/header_home_custom-215087bc375b0ac6d9ddce9ea82e1d13763e497c.png",
+  "url": [
+    "www.npr.org",
+    "text.npr.org"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/N/NPR/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/N/NPR/assets/thumbnail.png",
   "color": "#fff",
   "category": "other",
   "tags": [
