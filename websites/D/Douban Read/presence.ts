@@ -4,7 +4,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://litomore.me/images/doubanread-512.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/D/Douban%20Read/assets/logo.png',
 }
 
 function getTitle() {
