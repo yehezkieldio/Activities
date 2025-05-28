@@ -11,10 +11,13 @@
     "pt": "Notícias em português sobre anime, manga, videojogos e cultura Japonesa",
     "pt-br": "Notícias em português sobre anime, manga, videogames e cultura Japonesa"
   },
-  "url": ["otakupt.com", "www.otakupt.com"],
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/5DSVuza.png",
-  "thumbnail": "https://i.imgur.com/e2JPMpC.png",
+  "url": [
+    "otakupt.com",
+    "www.otakupt.com"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/OtakuPT/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/OtakuPT/assets/thumbnail.png",
   "color": "#ff2121",
   "category": "anime",
   "tags": [
