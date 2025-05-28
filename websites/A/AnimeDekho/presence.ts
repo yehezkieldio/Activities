@@ -3,7 +3,7 @@ const presence = new Presence({
 })
 
 const ActivityAssets = {
-  DefaultLogo: 'https://i.ibb.co/Zz6JbkCV/Anime-Dekho.png',
+  DefaultLogo: 'https://cdn.rcd.gg/PreMiD/websites/A/AnimeDekho/assets/logo.png',
 }
 
 function formatTitle(text: string): string {
