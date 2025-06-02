@@ -7,7 +7,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://upload.cc/i1/2025/05/25/AQ5pLl.jpg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/Asmrone/assets/logo.jpg',
   RJMainCover = 'https://api.asmr.one/api/cover',
   DLSite = 'https://www.dlsite.com/maniax/work/=/product_id',
 }

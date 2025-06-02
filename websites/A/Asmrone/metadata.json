@@ -12,9 +12,9 @@
     "zh-tw": "線上聽 ASMR 的網站，包含收藏、下載等功能。"
   },
   "url": "asmr.one",
-  "version": "1.0.0",
-  "logo": "https://upload.cc/i1/2025/05/25/AQ5pLl.jpg",
-  "thumbnail": "https://upload.cc/i1/2025/05/25/0mki4B.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/Asmrone/assets/logo.jpg",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/Asmrone/assets/thumbnail.png",
   "color": "#2380cc",
   "category": "music",
   "tags": [
