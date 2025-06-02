@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://www.bibliaonline.com.br/favicon-512.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/B/B%C3%ADblia%20On-line/assets/logo.png',
 }
 
 const { pathname, href } = document.location
