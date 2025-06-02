@@ -7,7 +7,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
   Logo = 'https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/logo.png',
-  Thumbnail = 'https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/0.jpg',
+  Thumbnail = 'https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/thumbnail.jpg',
 }
 
 interface PlayerMeta {
