@@ -21,9 +21,9 @@
     "indielens.org",
     "tubiii.com"
   ],
-  "version": "1.0.0",
-  "logo": "https://iqiyis.com/sites/iqiyis/web-app-manifest-512x512.png",
-  "thumbnail": "https://pub-83050fbfffe54dc3a307655bcc4f25a4.r2.dev/free-movies.jpg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/0.jpg",
   "color": "#E40813",
   "category": "videos",
   "tags": [

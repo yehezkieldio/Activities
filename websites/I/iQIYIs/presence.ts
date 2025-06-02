@@ -6,8 +6,8 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://iqiyis.com/sites/iqiyis/web-app-manifest-512x512.png',
-  Thumbnail = 'https://pub-83050fbfffe54dc3a307655bcc4f25a4.r2.dev/free-movies.jpg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/logo.png',
+  Thumbnail = 'https://cdn.rcd.gg/PreMiD/websites/I/iQIYIs/assets/0.jpg',
 }
 
 interface PlayerMeta {
