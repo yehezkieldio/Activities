@@ -17,12 +17,11 @@
     "pt": "Descarregue os melhores clássicos e novos jogos no Windows, Mac e Linux. Uma vasta seleção de títulos, sem DRM, com brindes grátis e garantia de reembolso de 30 dias.",
     "pt-br": "Baixe os melhores jogos clássicos e novos no Windows, Mac e Linux. Uma vasta seleção de títulos, sem DRM, com brindes grátis e garantia de reembolso de 30 dias.",
     "ru": "Загружайте лучшие классические и новые игры на Windows, Mac и Linux. Огромный выбор игр без DRM, с бесплатными дополнениями и 30-дневной гарантией возврата денег."
-
   },
   "url": "www.gog.com",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/bgU4DtR.png",
-  "thumbnail": "https://i.imgur.com/qIRuYc5.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/G/GOG/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/G/GOG/assets/thumbnail.png",
   "color": "#6E1D72",
   "category": "games",
   "tags": [
