@@ -28,9 +28,9 @@
   },
   "url": "www.ifixit.com",
   "regExp": "^https://[a-z]+[.]ifixit[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/ifixit.png",
-  "thumbnail": "https://valkyrie.cdn.ifixit.com/media/2022/06/03114104/Blog-Header-original-manta-BBF19-stacked-.jpg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/thumbnail.jpg",
   "color": "#0071ba",
   "category": "other",
   "tags": [
@@ -55,7 +55,11 @@
       "title": "Guide Big Image",
       "icon": "fad fa-image",
       "value": 0,
-      "values": ["Logo", "Guide Thumbnail", "Step Thumbnail"],
+      "values": [
+        "Logo",
+        "Guide Thumbnail",
+        "Step Thumbnail"
+      ],
       "if": {
         "privacy": false
       }
@@ -65,11 +69,14 @@
       "title": "Guide Small Image",
       "icon": "fad fa-info-circle",
       "value": 0,
-      "values": ["Nothing", "Estimated Time", "Difficulty Rating"],
+      "values": [
+        "Nothing",
+        "Estimated Time",
+        "Difficulty Rating"
+      ],
       "if": {
         "privacy": false
       }
-
     },
     {
       "id": "showStepTitle",

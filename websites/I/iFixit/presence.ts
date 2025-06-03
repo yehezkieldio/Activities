@@ -11,16 +11,16 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum PresenceImages {
-  Logo = 'https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/ifixit.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/logo.png',
 }
 
 enum Icons {
-  very_easy = 'https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/diff/very_easy.png',
-  easy = 'https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/diff/easy.png',
-  moderate = 'https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/diff/intermediate.png',
-  difficult = 'https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/diff/difficult.png',
-  Time = 'https://raw.githubusercontent.com/iuriineves/ifixit-icons/refs/heads/main/time.png',
-  Answered = 'https://raw.githubusercontent.com/iuriineves/premid-assets/refs/heads/main/answered.png',
+  very_easy = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/0.png',
+  easy = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/1.png',
+  moderate = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/2.png',
+  difficult = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/3.png',
+  Time = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/4.png',
+  Answered = 'https://cdn.rcd.gg/PreMiD/websites/I/iFixit/assets/5.png',
 }
 
 presence.on('UpdateData', async () => {
