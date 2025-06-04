@@ -10,9 +10,9 @@
     "en": "An open-source web rhythm game"
   },
   "url": "sunniesnow.github.io",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/qEvDh7E.png",
-  "thumbnail": "https://github.com/sunniesnow/default-background/releases/download/v1.0/default.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/Sunniesnow/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Sunniesnow/assets/thumbnail.png",
   "color": "#ffa520",
   "category": "games",
   "tags": [
