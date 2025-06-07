@@ -12,7 +12,7 @@ presence.on('UpdateData', async () => {
   const { pathname, search, hash } = document.location
 
   const presenceData: PresenceData = {
-    largeImageKey: 'https://i.ibb.co/1fZY8jWs/icon-512x512.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/K/Kuroiru/assets/logo.png',
     startTimestamp: Number.parseInt(startTimestamp, 10),
   }
 

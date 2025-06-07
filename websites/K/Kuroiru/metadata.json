@@ -9,11 +9,18 @@
   "description": {
     "en": "Cross-site anime tracker. Track anime across multiple resources and stay updated."
   },
-  "url": ["kuroiru.co", "www.kuroiru.co"],
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/1fZY8jWs/icon-512x512.png",
-  "thumbnail": "https://i.ibb.co/9mDmrtt7/Capture.png",
+  "url": [
+    "kuroiru.co",
+    "www.kuroiru.co"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/K/Kuroiru/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/K/Kuroiru/assets/thumbnail.png",
   "color": "#a347ff",
   "category": "anime",
-  "tags": ["anime", "tracker", "manga"]
+  "tags": [
+    "anime",
+    "tracker",
+    "manga"
+  ]
 }
