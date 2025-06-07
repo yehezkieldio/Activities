@@ -11,9 +11,9 @@
     "es": "HIDIVE es un servicio de streaming que ofrece una amplia selección de anime, incluyendo simulcasts, clásicos y títulos exclusivos, todos disponible en HD."
   },
   "url": "www.hidive.com",
-  "version": "1.0.0",
-  "logo": "https://imgur.com/ORJy91l.png",
-  "thumbnail": "https://imgur.com/tY8BIha.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/H/HIDIVE/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/H/HIDIVE/assets/thumbnail.png",
   "color": "#000000",
   "category": "anime",
   "tags": [
