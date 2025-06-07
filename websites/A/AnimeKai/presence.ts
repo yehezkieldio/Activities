@@ -171,29 +171,45 @@ presence.on('UpdateData', async () => {
         presenceData.smallImageKey = ActivityAssets.Settings
         break
       }
-      case '/user/notification': {
-        presenceData.details = 'Looking at Notifications'
-        presenceData.smallImageKey = ActivityAssets.Notifications
-        break
-      }
       case '/user/watching': {
         presenceData.details = 'Continue Watching'
         presenceData.smallImageKey = Assets.Reading
         break
       }
       case '/user/import': {
-        presenceData.details = 'MAL Import/Export'
+        presenceData.details = 'MAL/AL Import'
         presenceData.smallImageKey = Assets.Downloading
         break
       }
+      case '/user/export': {
+        presenceData.details = 'MAL/AL Export'
+        presenceData.smallImageKey = Assets.Uploading
+        break
+      }
+      case '/user/sync': {
+        presenceData.details = 'Syncing with AL'
+        presenceData.smallImageKey = Assets.Live
+        break
+      }
       case '/user/notifications': {
-        presenceData.details = 'Looking at Notifications'
+        const type = new URLSearchParams(document.location.search).get('type')
+        if (type === 'community') {
+          presenceData.details = 'Looking at Community Notifications'
+        }
+        else {
+          presenceData.details = 'Looking at Anime Notifications'
+        }
         presenceData.smallImageKey = Assets.Reading
         break
       }
       case '/user/bookmarks': {
         presenceData.details = 'Managing Bookmarks'
         presenceData.smallImageKey = ActivityAssets.Settings
+        break
+      }
+      case '/upcoming': {
+        presenceData.details = 'Looking at Upcoming'
+        presenceData.smallImageKey = Assets.Reading
         break
       }
       default: {
