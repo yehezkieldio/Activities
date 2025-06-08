@@ -5,9 +5,9 @@ export enum SiteId {
 }
 
 enum CustomAssets {
-  MangaLibLogo = 'https://i.imgur.com/FY6BDdR.png',
-  RanobeLibLogo = 'https://i.imgur.com/1Dcjjm0.png',
-  AnimeLibLogo = 'https://i.imgur.com/9Oh0Y36.png',
+  MangaLibLogo = 'https://cdn.rcd.gg/PreMiD/websites/M/Mangalib/assets/logo.png',
+  RanobeLibLogo = 'https://cdn.rcd.gg/PreMiD/websites/M/Mangalib/assets/0.png',
+  AnimeLibLogo = 'https://cdn.rcd.gg/PreMiD/websites/M/Mangalib/assets/1.png',
 }
 
 export function getSiteId(hostname: string) {
