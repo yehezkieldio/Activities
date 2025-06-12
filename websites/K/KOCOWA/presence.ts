@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/avFa7O6.gif',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/K/KOCOWA/assets/0.gif',
 }
 
 let strings: Awaited<ReturnType<typeof getStrings>>
