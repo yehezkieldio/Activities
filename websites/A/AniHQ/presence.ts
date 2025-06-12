@@ -12,7 +12,7 @@ let durTime = 0
 let isPaused = true
 
 enum ActivityAssets {
-  Logo = 'https://i.ibb.co/MxtZYWmS/web-app-manifest-512x512.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/AniHQ/assets/logo.png',
 }
 
 function getAnimeNameFromTitle(raw: string | null): string {
