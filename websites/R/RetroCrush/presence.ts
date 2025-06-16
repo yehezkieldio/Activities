@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/WYO7N2B.gif',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/R/RetroCrush/assets/0.gif',
 }
 
 async function videoActive() {
