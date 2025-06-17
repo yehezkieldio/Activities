@@ -5,23 +5,23 @@ const presence = new Presence({
 })
 
 enum Assets {
-  Play = 'https://img.icons8.com/ios-filled/512/play.png',
-  Info = 'https://img.icons8.com/ios-filled/512/info.png',
-  TV = 'https://img.icons8.com/ios-filled/512/tv.png',
-  Profile = 'https://img.icons8.com/ios-filled/512/user-male-circle.png',
-  Star = 'https://img.icons8.com/ios-filled/512/star.png',
-  Movie = 'https://img.icons8.com/ios-filled/512/clapperboard.png',
-  Anime = 'https://img.icons8.com/ios-filled/512/anime.png',
-  Heart = 'https://img.icons8.com/ios-filled/512/like.png',
+  Play = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/0.png',
+  Info = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/1.png',
+  TV = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/2.png',
+  Profile = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/3.png',
+  Star = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/4.png',
+  Movie = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/5.png',
+  Anime = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/6.png',
+  Heart = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/7.png',
   Trending =
-  'https://img.icons8.com/external-anggara-flat-anggara-putra/512/external-trending-basic-user-interface-anggara-flat-anggara-putra.png',
-  Clock = 'https://img.icons8.com/ios-filled/512/clock.png',
+  'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/8.png',
+  Clock = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/9.png',
 }
 
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 const defaultLogo
-  = 'https://raw.githubusercontent.com/Parthsadaria/Fantom-assets/refs/heads/main/fantom_512.png'
+  = 'https://cdn.rcd.gg/PreMiD/websites/F/FantomTv/assets/logo.png'
 
 const API_KEY = 'f1e9f26e7db297085d5c15e7ea4f15db'
 const API_URL = 'https://api.themoviedb.org/3'
