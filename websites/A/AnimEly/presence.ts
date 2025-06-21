@@ -13,7 +13,7 @@ presence.on('iFrameData', (data) => {
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/VZbEBUq.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/AnimEly/assets/logo.png',
 }
 
 presence.on('UpdateData', () => {

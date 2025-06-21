@@ -15,9 +15,9 @@
     "tr": "Türkçe altyazılı anime izleyin"
   },
   "url": "animely.net",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/VZbEBUq.png",
-  "thumbnail": "https://i.imgur.com/iiYW3NE.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/AnimEly/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/AnimEly/assets/thumbnail.png",
   "color": "#8ac6f5",
   "category": "anime",
   "tags": [
