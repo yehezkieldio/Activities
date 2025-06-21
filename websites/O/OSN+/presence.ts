@@ -6,8 +6,8 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Animated = 'https://i.imgur.com/FDRPhkT.gif',
-  Logo = 'https://imgur.com/yoSkCSz.png',
+  Animated = 'https://cdn.rcd.gg/PreMiD/websites/O/OSN%2B/assets/0.gif',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/O/OSN%2B/assets/logo.png',
 }
 
 function isVideoActive() {
