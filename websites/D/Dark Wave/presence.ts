@@ -9,7 +9,7 @@ presence.on('UpdateData', async () => {
   const data: PresenceData = {
     type: ActivityType.Watching,
     name: 'DarkWave - Looking..',
-    largeImageKey: 'https://i.ibb.co/Xrbhkrm9/image-1.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/D/Dark%20Wave/assets/logo.png',
   }
   const video = document.querySelector<HTMLVideoElement>('video')
   if (video) {
