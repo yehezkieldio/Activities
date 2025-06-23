@@ -4,10 +4,10 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://res.cloudinary.com/dg9yrubdu/image/upload/w_512,h_512,c_fill/enka-network-logo.png',
-  genshinIcon = 'https://res.cloudinary.com/dg9yrubdu/image/upload/w_512,h_512,c_fill/gi-icon.png',
-  hsrIcon = 'https://res.cloudinary.com/dg9yrubdu/image/upload/w_512,h_512,c_fill/hsr-icon.png',
-  zzzIcon = 'https://res.cloudinary.com/dg9yrubdu/image/upload/w_512,h_512,c_fill/zzz-icon.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/E/Enka.Network/assets/logo.png',
+  genshinIcon = 'https://cdn.rcd.gg/PreMiD/websites/E/Enka.Network/assets/0.png',
+  hsrIcon = 'https://cdn.rcd.gg/PreMiD/websites/E/Enka.Network/assets/1.png',
+  zzzIcon = 'https://cdn.rcd.gg/PreMiD/websites/E/Enka.Network/assets/2.png',
 }
 
 function fetchPlayerDetails(): { name: string, level: string } {
