@@ -10,9 +10,9 @@
     "en": "Watch movies and TV shows online with high quality streaming"
   },
   "url": "flixer.su",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/aY4D04N.jpeg",
-  "thumbnail": "https://i.imgur.com/9FFBVrv.jpeg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/F/Flixer/assets/logo.jpeg",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/F/Flixer/assets/thumbnail.jpeg",
   "color": "#1a1a1a",
   "category": "videos",
   "tags": [
