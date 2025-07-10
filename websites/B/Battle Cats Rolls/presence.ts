@@ -7,7 +7,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 const slideshow = presence.createSlideshow()
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/Sj13xSA.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/B/Battle%20Cats%20Rolls/assets/logo.png',
 }
 
 let slideshowGenerated = false
