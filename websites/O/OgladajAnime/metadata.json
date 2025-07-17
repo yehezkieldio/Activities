@@ -16,13 +16,20 @@
     "en": "Watch anime with Polish subtitles for free",
     "pl": "Oglądaj anime z polskimi napisami za darmo"
   },
-  "url": ["ogladajanime.pl", "www.ogladajanime.pl"],
-  "version": "1.0.0",
-  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/ogladajanime/assets/logo.png",
-  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/ogladajanime/assets/thumbnail.png",
+  "url": [
+    "ogladajanime.pl",
+    "www.ogladajanime.pl"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/OgladajAnime/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/OgladajAnime/assets/thumbnail.png",
   "color": "#29C5F6",
   "category": "anime",
-  "tags": ["polish", "anime", "video"],
+  "tags": [
+    "polish",
+    "anime",
+    "video"
+  ],
   "iframe": true,
   "iFrameRegExp": "^(?!youtube.com|youtu.be).*",
   "settings": [
