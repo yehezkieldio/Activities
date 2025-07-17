@@ -16,9 +16,9 @@
     "en": "The streaming platform with a personalized user experience that brings unique and unexpected stories ranging from the highest quality in scripted programming to the best of unscripted, family-friendly content, the HBO service, HBO Max Originals and more."
   },
   "url": "play.hbomax.com",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/emhftkc.jpeg",
-  "thumbnail": "https://i.imgur.com/KfLS9TD.jpeg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/H/HBO%20Max/assets/logo.jpeg",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/H/HBO%20Max/assets/thumbnail.jpeg",
   "color": "#0014a4",
   "category": "videos",
   "tags": [

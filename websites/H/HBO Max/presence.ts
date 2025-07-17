@@ -7,7 +7,7 @@ const presence = new Presence({
 let isFetching = false
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/emhftkc.jpeg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/H/HBO%20Max/assets/logo.jpeg',
 }
 
 let fetchedInfo: {
