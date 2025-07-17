@@ -11,9 +11,9 @@
     "tr": "Anime izleme deneyiminizi geliştirmek için tasarlanmış açık kaynaklı, hızlı ve şık anime platformu."
   },
   "url": "openani.me",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/hdkxlIm.png",
-  "thumbnail": "https://i.imgur.com/E2TTQBJ.jpeg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/O/OpenAnime/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/OpenAnime/assets/thumbnail.jpeg",
   "color": "#61cdfd",
   "category": "anime",
   "tags": [
