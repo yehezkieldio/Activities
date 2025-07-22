@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/Lc2MCM6.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/O/OpenFront.io/assets/logo.png',
 }
 
 let isInGame = false
