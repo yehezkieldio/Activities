@@ -12,9 +12,9 @@
   },
   "url": "book.sfacg.com",
   "regExp": "([a-z0-9-]+[.])*(sfacg)[.]com[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/ejBneYz.png",
-  "thumbnail": "https://i.imgur.com/h3IRTqB.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/SFACG/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/SFACG/assets/thumbnail.png",
   "color": "#E29464",
   "category": "other",
   "tags": [
