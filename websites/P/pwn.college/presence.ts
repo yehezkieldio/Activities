@@ -7,11 +7,11 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 const { pathname } = document.location
 
 const beltsURLs: Record<string, string> = {
-  orange: 'https://cdn.imgchest.com/files/739cxk66w87.png',
-  yellow: 'https://cdn.imgchest.com/files/y2pck5oolk7.png',
-  green: 'https://cdn.imgchest.com/files/4jdcv6jj8g4.png',
-  blue: 'https://cdn.imgchest.com/files/yq9c3veema4.png',
-  white: 'https://cdn.imgchest.com/files/7lxcpxddle7.png',
+  orange: 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/0.png',
+  yellow: 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/1.png',
+  green: 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/2.png',
+  blue: 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/3.png',
+  white: 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/4.png',
 }
 
 const beltsArray: string[] = Object?.keys(beltsURLs)
@@ -23,8 +23,8 @@ const utils = {
 }
 
 enum ActivityAssets {
-  Logo = 'https://cdn.imgchest.com/files/yd5cemrrpz4.png',
-  thumbnail = 'https://cdn.imgchest.com/files/yrgcn9zz3b4.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/logo.png',
+  thumbnail = 'https://cdn.rcd.gg/PreMiD/websites/P/pwn.college/assets/5.png',
 }
 
 presence.on('UpdateData', async () => {
