@@ -11,9 +11,9 @@
   },
   "url": "gronkh.tv",
   "regExp": "([a-z0-9-]+[.])*(gronkh)[.]tv[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/rZooYzo.png",
-  "thumbnail": "https://i.imgur.com/zTA2WWf.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/G/Gronkh.tv/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/G/Gronkh.tv/assets/thumbnail.png",
   "color": "#562BF2",
   "category": "games",
   "tags": [
