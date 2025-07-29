@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/rFXu6Em.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/H/Hdfilmcehennemi/assets/logo.png',
 }
 
 let iframePlayback = false

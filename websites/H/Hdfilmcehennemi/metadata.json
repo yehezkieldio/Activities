@@ -18,9 +18,9 @@
   },
   "url": "hdfilmcehennemi.nl",
   "regExp": "([a-z0-9-]+[.])*(hdfilmcehennemi)[.]nl[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/rFXu6Em.png",
-  "thumbnail": "https://i.imgur.com/VYm5lcT.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/H/Hdfilmcehennemi/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/H/Hdfilmcehennemi/assets/thumbnail.png",
   "color": "#e95900",
   "category": "videos",
   "tags": [
