@@ -6,7 +6,10 @@
     "id": "753271371781374074"
   },
   "service": "Anroll",
-  "altnames": ["Anroll Brasil", "Anroll Anime"],
+  "altnames": [
+    "Anroll Brasil",
+    "Anroll Anime"
+  ],
   "description": {
     "en": "AnimesROLL: The best way to watch anime online for free. Just hit play and enjoy your favorite anime in HD, updated daily.",
     "pt": "AnimesROLL: A melhor forma de assistir animes online gratuitamente. Basta dar play e ver seus animes favoritos em HD, atualizados diariamente."
@@ -16,9 +19,9 @@
     "my.anroll.net"
   ],
   "regExp": "([a-z0-9-]+\\.)*anroll\\.net[/]",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/hJwCZCTx/ico-menu-2.png",
-  "thumbnail": "https://i.pinimg.com/736x/0d/69/f1/0d69f1c3b2aee2f9fca2b0b81abb16bb.jpg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/Anroll/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/Anroll/assets/thumbnail.jpg",
   "color": "#FFFFFF",
   "category": "anime",
   "tags": [
