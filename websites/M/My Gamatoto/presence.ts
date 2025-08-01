@@ -14,7 +14,7 @@ declare global {
 }
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/XVjT2MK.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/My%20Gamatoto/assets/logo.png',
 }
 
 let oldSlideshowKey: string
