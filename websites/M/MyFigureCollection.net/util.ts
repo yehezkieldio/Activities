@@ -53,7 +53,7 @@ export function getStrings() {
 }
 
 export enum ActivityAssets {
-  Logo = 'https://i.imgur.com/bRgn1zR.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/MyFigureCollection.net/assets/logo.png',
 }
 
 // mostly needed because the site's images don't load on Discord
