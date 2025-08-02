@@ -11,9 +11,9 @@
     "fr": "Regardez vos films et séries préférés en streaming."
   },
   "url": "flemmix.biz",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/JRsbkwB.png",
-  "thumbnail": "https://i.imgur.com/UKBh7gC.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/F/Flemmix/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/F/Flemmix/assets/thumbnail.png",
   "color": "#d90000",
   "category": "videos",
   "tags": [

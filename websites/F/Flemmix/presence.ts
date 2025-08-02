@@ -4,7 +4,7 @@ const presence = new Presence({ clientId: '1399867497750069389' })
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 const ActivityAssets = {
-  Logo: 'https://i.imgur.com/JRsbkwB.png',
+  Logo: 'https://cdn.rcd.gg/PreMiD/websites/F/Flemmix/assets/logo.png',
 }
 
 let video = {
