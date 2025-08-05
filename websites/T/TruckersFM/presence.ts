@@ -12,7 +12,7 @@ function getElementByXPath(xpath: string): Element | null {
 
 presence.on('UpdateData', () => {
   const presenceData: PresenceData = {
-    largeImageKey: (getElementByXPath('/html/body/div[1]/div/div[1]/div[3]/div[1]/div/div[1]/div/div[1]/img') as HTMLImageElement)?.src || 'https://i.imgur.com/R5xHjtR.png',
+    largeImageKey: (getElementByXPath('/html/body/div[1]/div/div[1]/div[3]/div[1]/div/div[1]/div/div[1]/img') as HTMLImageElement)?.src || 'https://cdn.rcd.gg/PreMiD/websites/T/TruckersFM/assets/logo.png',
     startTimestamp: browsingTimestamp,
     type: ActivityType.Listening,
   }
@@ -25,7 +25,7 @@ presence.on('UpdateData', () => {
     artistElement?.textContent
   } - ${titleElement?.textContent}`
   presenceData.state = presenterElement?.textContent ?? 'AutoDJ'
-  presenceData.smallImageKey = 'https://i.imgur.com/R5xHjtR.png'
+  presenceData.smallImageKey = 'https://cdn.rcd.gg/PreMiD/websites/T/TruckersFM/assets/logo.png'
   presenceData.smallImageText = 'TruckersFM'
 
   presence.setActivity(presenceData)
