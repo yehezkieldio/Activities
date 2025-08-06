@@ -10,9 +10,9 @@
     "en": "Wplace is a collaborative, real-time pixel canvas layered over the world map, where anyone can paint and create art together."
   },
   "url": "wplace.live",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/ZfNOTBm.png",
-  "thumbnail": "https://i.imgur.com/3iaxuqv.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/W/Wplace/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/W/Wplace/assets/thumbnail.png",
   "color": "#1C61E7",
   "category": "games",
   "tags": [
