@@ -95,7 +95,7 @@ async function updatePresence() {
   // Privacy mode enabled — show nothing except icon + timestamps (if any)
   if (privacy) {
     const presenceData: PresenceData = {
-      largeImageKey: 'https://i.ibb.co/9PPkt6L/mappletv.png',
+      largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/M/Mapple.tv/assets/logo.png',
     }
 
     const video = document.querySelector('video')
@@ -114,7 +114,7 @@ async function updatePresence() {
   }
 
   const presenceData: PresenceData = {
-    largeImageKey: 'https://i.ibb.co/9PPkt6L/mappletv.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/M/Mapple.tv/assets/logo.png',
     details: constructAction[action],
   }
 

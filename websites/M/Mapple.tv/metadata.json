@@ -10,12 +10,21 @@
     "en": "Shows what you're watching on mapple.tv"
   },
   "url": "mapple.tv",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/9PPkt6L/mappletv.png",
-  "thumbnail": "https://i.ibb.co/Lhxcqm84/thumbnail.jpg",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/M/Mapple.tv/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/M/Mapple.tv/assets/thumbnail.jpg",
   "color": "#000000",
   "category": "videos",
-  "tags": ["streaming", "movies", "tv", "entertainment", "media", "sports", "video", "audiobook"],
+  "tags": [
+    "streaming",
+    "movies",
+    "tv",
+    "entertainment",
+    "media",
+    "sports",
+    "video",
+    "audiobook"
+  ],
   "settings": [
     {
       "id": "privacy",
