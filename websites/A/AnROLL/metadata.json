@@ -6,19 +6,31 @@
     "id": "753271371781374074"
   },
   "service": "AnROLL",
-  "altnames": ["AnROLL Brasil", "AnROLL Anime"],
+  "altnames": [
+    "AnROLL Brasil",
+    "AnROLL Anime"
+  ],
   "description": {
     "en": "AnimesROLL: The best way to watch anime online for free. Just hit play and enjoy your favorite anime in HD, updated daily.",
     "pt": "AnimesROLL: A melhor forma de assistir animes online gratuitamente. Basta dar play e ver seus animes favoritos em HD, atualizados diariamente."
   },
-  "url": ["www.anroll.net", "my.anroll.net"],
+  "url": [
+    "www.anroll.net",
+    "my.anroll.net"
+  ],
   "regExp": "([a-z0-9-]+\\.)*anroll\\.net[/]",
-  "version": "1.0.0",
-  "logo": "https://i.ibb.co/hJwCZCTx/ico-menu-2.png",
-  "thumbnail": "https://i.ibb.co/0p5SBPZ2/Screenshot-7.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/A/AnROLL/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/A/AnROLL/assets/thumbnail.png",
   "color": "#FFFFFF",
   "category": "anime",
-  "tags": ["anime", "streaming", "brazil", "movies", "community"],
+  "tags": [
+    "anime",
+    "streaming",
+    "brazil",
+    "movies",
+    "community"
+  ],
   "settings": [
     {
       "id": "privacy",
@@ -49,7 +61,9 @@
       "title": "Mostrar Partyroll",
       "icon": "fas fa-users",
       "value": true,
-      "if": { "privacy": false }
+      "if": {
+        "privacy": false
+      }
     }
   ]
 }
