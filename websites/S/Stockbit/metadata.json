@@ -17,9 +17,9 @@
     "snips.stockbit.com",
     "emitten-announcement.stockbit.com"
   ],
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/mrEN3GP.png",
-  "thumbnail": "https://i.imgur.com/Ta8KzqL.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/Stockbit/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Stockbit/assets/thumbnail.png",
   "color": "#B2E6D2",
   "category": "other",
   "tags": [
