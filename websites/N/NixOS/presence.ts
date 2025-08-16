@@ -6,9 +6,9 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://gist.github.com/ItsShamed/98d1d577936b5009e8ee2b6b3b31ae09/raw/2dc68888f34ffa1aa379a0d40b7aa810c277e1b8/nixos.png',
-  LogoRainbow = 'https://gist.github.com/ItsShamed/98d1d577936b5009e8ee2b6b3b31ae09/raw/2dc68888f34ffa1aa379a0d40b7aa810c277e1b8/nixos-rainbow.png',
-  LogoRb = 'https://gist.github.com/ItsShamed/98d1d577936b5009e8ee2b6b3b31ae09/raw/3eea7ab1c016809b8938b9f905125e0ce0575a10/nixos-rb.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/N/NixOS/assets/logo.png',
+  LogoRainbow = 'https://cdn.rcd.gg/PreMiD/websites/N/NixOS/assets/0.png',
+  LogoRb = 'https://cdn.rcd.gg/PreMiD/websites/N/NixOS/assets/1.png',
 }
 
 const manualNames: { [manualName: string]: string } = {

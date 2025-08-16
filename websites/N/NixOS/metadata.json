@@ -11,9 +11,9 @@
   },
   "url": "nixos.org",
   "regExp": "([a-z0-9-]+[.])*nixos[.]org[/]",
-  "version": "1.0.0",
-  "logo": "https://gist.github.com/ItsShamed/98d1d577936b5009e8ee2b6b3b31ae09/raw/2dc68888f34ffa1aa379a0d40b7aa810c277e1b8/nixos.png",
-  "thumbnail": "https://gist.github.com/ItsShamed/98d1d577936b5009e8ee2b6b3b31ae09/raw/2a495adffd2b46ac549535f8135dc4b04e65321e/satty-20250810-00:37:16.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/N/NixOS/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/N/NixOS/assets/thumbnail.png",
   "color": "#4d6fb7",
   "category": "other",
   "tags": [
