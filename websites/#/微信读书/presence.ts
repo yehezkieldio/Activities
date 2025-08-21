@@ -7,7 +7,7 @@ const browsingTimestamp = Math.floor(Date.now() / 1000)
 let privacyMode = false
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/lEMm1nM.jpeg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/%23/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6/assets/logo.jpeg',
 }
 
 function getPageType() {
