@@ -6,7 +6,7 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/REoW6cE.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/F/FFXIV%20Lodestone/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {

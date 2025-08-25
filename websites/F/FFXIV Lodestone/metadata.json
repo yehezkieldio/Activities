@@ -10,10 +10,13 @@
     "de": "Offizielle Community-Site für FINAL FANTASY XIV: A Realm Reborn.",
     "en": "Official community site for FINAL FANTASY XIV: A Realm Reborn."
   },
-  "url": ["na.finalfantasyxiv.com", "de.finalfantasyxiv.com"],
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/REoW6cE.png",
-  "thumbnail": "https://i.imgur.com/Lp2L8Fg.png",
+  "url": [
+    "na.finalfantasyxiv.com",
+    "de.finalfantasyxiv.com"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/F/FFXIV%20Lodestone/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/F/FFXIV%20Lodestone/assets/thumbnail.png",
   "color": "#cc3d33",
   "category": "games",
   "tags": [
