@@ -12,9 +12,9 @@
   },
   "url": "booth.pm",
   "regExp": "([a-z0-9-]+[.])*booth[.]pm[/]",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/Ia9Xgge.png",
-  "thumbnail": "https://i.imgur.com/0JPC0Lh.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/B/BOOTH/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/B/BOOTH/assets/thumbnail.png",
   "color": "#FC4D50",
   "category": "socials",
   "tags": [
