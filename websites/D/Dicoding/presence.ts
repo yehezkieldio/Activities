@@ -4,7 +4,7 @@ const presence = new Presence({ clientId: '1409048810646405152' })
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/L87Fab1.jpeg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/D/Dicoding/assets/logo.jpeg',
 }
 
 function textFrom(sel: string): string | null {
