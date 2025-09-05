@@ -1,5 +1,5 @@
 export enum Images {
-  Logo = 'https://mido.anlayana.com/premid/images/tempestmangas/logo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/T/Tempest%20Mangas/assets/logo.png',
 }
 
 export interface Settings {
