@@ -1,5 +1,5 @@
 export enum Images {
-  Logo = 'https://mido.anlayana.com/premid/images/aistudio/logo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20AI%20Studio/assets/logo.png',
 }
 
 export interface AiStudioSettings {
