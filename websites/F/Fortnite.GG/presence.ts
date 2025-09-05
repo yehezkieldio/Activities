@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://static.wikia.nocookie.net/fortnite_gamepedia/images/d/d5/GGSmileySpray.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/F/Fortnite.GG/assets/logo.png',
 }
 
 const browsingTimestamp = Math.floor(Date.now() / 1000)
