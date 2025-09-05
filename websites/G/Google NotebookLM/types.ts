@@ -1,5 +1,5 @@
 export enum Images {
-  Logo = 'https://mido.anlayana.com/premid/images/notebooklm/logo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20NotebookLM/assets/logo.png',
 }
 
 export interface NotebookLMSettings {
