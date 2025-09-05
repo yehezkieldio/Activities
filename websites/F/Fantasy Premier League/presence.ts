@@ -5,7 +5,7 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/uCv7S6E.jpeg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/F/Fantasy%20Premier%20League/assets/logo.jpeg',
 }
 
 const browsingTimestamp = Math.floor(Date.now() / 1000)
