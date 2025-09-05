@@ -1,5 +1,5 @@
 export enum Images {
-  Logo = 'https://mido.anlayana.com/premid/images/stigstream/logo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/S/Stigstream/assets/logo.png',
 }
 
 export interface Settings {
