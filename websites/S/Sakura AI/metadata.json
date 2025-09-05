@@ -9,10 +9,13 @@
   "description": {
     "en": "Chat with engaging AI characters. Explore, discover, and create new AI-powered experiences. Start chatting today and unleash your imagination."
   },
-  "url": ["sakura.fm", "www.sakura.fm"],
-  "version": "1.0.0",
-  "logo": "https://mido.anlayana.com/premid/images/sakuraai/logo.png",
-  "thumbnail": "https://mido.anlayana.com/premid/images/sakuraai/banner.png",
+  "url": [
+    "sakura.fm",
+    "www.sakura.fm"
+  ],
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/Sakura%20AI/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Sakura%20AI/assets/thumbnail.png",
   "color": "#242525",
   "category": "other",
   "tags": [
