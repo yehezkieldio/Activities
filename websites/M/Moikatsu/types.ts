@@ -1,5 +1,5 @@
 export enum Images {
-  Logo = 'https://mido.anlayana.com/premid/images/moikatsu/logo.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/M/Moikatsu/assets/logo.png',
 }
 
 export interface Settings {
