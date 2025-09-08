@@ -5,7 +5,7 @@ const presence = new Presence({
 const browsingTimestamp: number = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/NdI18uv.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/N/NeetCode/assets/logo.png',
 }
 
 presence.on('UpdateData', async () => {
