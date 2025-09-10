@@ -12,9 +12,9 @@
   },
   "url": "cinepulse.to",
   "regExp": "([a-z0-9-]+\\.)*cinepulse\\.to[/]?",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/jypMhJo.png",
-  "thumbnail": "https://i.ibb.co/20Dw3tpK/cinepulse.webp",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/C/CinePulse/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/C/CinePulse/assets/thumbnail.webp",
   "color": "#000000",
   "category": "videos",
   "tags": [

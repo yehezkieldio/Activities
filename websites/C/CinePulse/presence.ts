@@ -5,9 +5,9 @@ const presence = new Presence({
 })
 
 const assets = {
-  logo: 'https://i.imgur.com/jypMhJo.png',
-  play: 'https://i.imgur.com/BTAZioy.png',
-  pause: 'https://i.imgur.com/Kbkw0FO.png',
+  logo: 'https://cdn.rcd.gg/PreMiD/websites/C/CinePulse/assets/logo.png',
+  play: 'https://cdn.rcd.gg/PreMiD/websites/C/CinePulse/assets/0.png',
+  pause: 'https://cdn.rcd.gg/PreMiD/websites/C/CinePulse/assets/1.png',
 }
 
 function _formatTime(seconds: number): string {
