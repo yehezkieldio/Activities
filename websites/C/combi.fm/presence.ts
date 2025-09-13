@@ -5,10 +5,10 @@ const presence = new Presence({
 })
 
 enum ActivityAssets {
-  Logo = 'https://combi.fm/logos/combi.png',
-  SP_Logo = 'https://combi.fm/logos/512/Spotify_Primary_Logo_RGB_Green_512.png',
-  SC_Logo = 'https://combi.fm/logos/512/SoundCloudLogo_BW_512.png',
-  TI_Logo = 'https://combi.fm/logos/512/Tidal_icon_white_rgb_512.png',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/C/combi.fm/assets/logo.png',
+  SP_Logo = 'https://cdn.rcd.gg/PreMiD/websites/C/combi.fm/assets/0.png',
+  SC_Logo = 'https://cdn.rcd.gg/PreMiD/websites/C/combi.fm/assets/1.png',
+  TI_Logo = 'https://cdn.rcd.gg/PreMiD/websites/C/combi.fm/assets/2.png',
 }
 
 interface Settings {
