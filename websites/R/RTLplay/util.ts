@@ -135,10 +135,10 @@ export enum ActivityAssets {
   RTLDistrict = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/15.png',
   RTLSports = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/16.png',
   BelRTL = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/10.png',
-  BelRTLAnimated = 'https://i.imgur.com/i8OnZwd.gif',
+  BelRTLAnimated = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/17.gif',
   Contact = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/11.png',
-  ContactAnimated = 'https://imgur.com/OhK2Y0p.gif',
-  Mint = 'https://i.imgur.com/IzFAcAN.png',
+  ContactAnimated = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/18.gif',
+  Mint = 'https://cdn.rcd.gg/PreMiD/websites/R/RTLplay/assets/19.png',
 }
 
 export const localizedAssets = {
