@@ -11,9 +11,9 @@
     "ja": "SPWN（スポーン）は、ライブハウスをはじめとする全国の劇場、映画館、イベントスペースなどのあらゆるステージを世界に届けます。"
   },
   "url": "spwn.jp",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/LvbXO0a.png",
-  "thumbnail": "https://i.imgur.com/NE5LZrZ.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/S/SPWN/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/SPWN/assets/thumbnail.png",
   "color": "#000000",
   "category": "videos",
   "tags": [
