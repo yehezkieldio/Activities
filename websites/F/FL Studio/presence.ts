@@ -19,7 +19,7 @@ let strings: Awaited<ReturnType<typeof getStrings>>
 
 presence.on('UpdateData', async () => {
   const presenceData: PresenceData = {
-    largeImageKey: 'https://imgur.com/5rqfFo5.png',
+    largeImageKey: 'https://cdn.rcd.gg/PreMiD/websites/F/FL%20Studio/assets/logo.png',
     startTimestamp: browsingTimestamp,
   }
 
