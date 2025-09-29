@@ -10,12 +10,16 @@
     "en": "Stream or download anime dubbed in Hindi, Tamil, Telugu, and English on ToonStream."
   },
   "url": "toonstream.love",
-  "version": "1.0.0",
-  "logo": "https://i.imgur.com/llW08V7.png",
-  "thumbnail": "https://i.imgur.com/iNIg3ia.png",
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/T/ToonStream/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/T/ToonStream/assets/thumbnail.png",
   "color": "#A700FA",
   "category": "anime",
-  "tags": ["anime", "streaming", "video"],
+  "tags": [
+    "anime",
+    "streaming",
+    "video"
+  ],
   "settings": [
     {
       "id": "privacy",
