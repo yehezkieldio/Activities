@@ -6,8 +6,8 @@ const presence = new Presence({
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 enum ActivityAssets {
-  Logo = 'https://imgur.com/cRlK7Td.png',
-  Gif = 'https://imgur.com/1VChgPE.gif',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/A/Anime%20Online%20Ninja/assets/logo.png',
+  Gif = 'https://cdn.rcd.gg/PreMiD/websites/A/Anime%20Online%20Ninja/assets/0.gif',
 }
 
 let cacheEpisode: {
