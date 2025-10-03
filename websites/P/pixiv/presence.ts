@@ -53,7 +53,7 @@ const staticPages: Record<string, PresenceData> = {
 }
 
 enum ActivityAssets {
-  Logo = 'https://i.imgur.com/0ZDreiR.jpeg',
+  Logo = 'https://cdn.rcd.gg/PreMiD/websites/P/pixiv/assets/0.jpeg',
 }
 
 let browsingTimestamp = Math.floor(Date.now() / 1000)
