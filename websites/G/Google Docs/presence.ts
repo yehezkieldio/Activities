@@ -35,8 +35,8 @@ enum ActivityAssets {
   FormsLogo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20Docs/assets/1.png',
   SheetsLogo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20Docs/assets/2.png',
   SlidesLogo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20Docs/assets/3.png',
-  VidsLogo = 'https://i.imgur.com/o1MVIhL.png',
-  DrawingsLogo = 'https://i.imgur.com/7PgMU1D.png',
+  VidsLogo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20Docs/assets/4.png',
+  DrawingsLogo = 'https://cdn.rcd.gg/PreMiD/websites/G/Google%20Docs/assets/5.png',
 }
 
 presence.on('UpdateData', async () => {
