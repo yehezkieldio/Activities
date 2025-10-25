@@ -1,0 +1,41 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.15",
+  "apiVersion": 1,
+  "author": {
+    "id": "327849142774923266",
+    "name": "Liz"
+  },
+  "service": "SpaceBattles",
+  "altnames": ["SB"],
+   "description": {
+    "en": "SpaceBattles is a discussion forum focused on science fiction, fantasy, and creative writing with a strong community of authors and readers."
+  },
+  "url": "forums.spacebattles.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/2FBZ2CX.png",
+  "thumbnail": "https://i.imgur.com/000000.png",
+  "color": "#000000",
+  "category": "other",
+  "tags": [
+    "forum",
+    "community",
+    "discussion",
+    "writing",
+    "fiction"
+  ],
+  "iframe": false,
+  "settings": [
+    {
+      "id": "showReading",
+      "title": "Show Thread Reading Status",
+      "icon": "fas fa-book-open",
+      "value": true
+    },
+    {
+      "id": "showBrowsing",
+      "title": "Show Browsing Details",
+      "icon": "fas fa-eye",
+      "value": true
+    }
+  ]
+}
