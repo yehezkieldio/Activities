@@ -51,7 +51,7 @@ presence.on('UpdateData', async () => {
 
           if (postContainer) {
             const threadmarkLabelEl = postContainer.querySelector(".threadmarkLabel");
-            const threadmarkCategoryEl = postContainer.querySelector(".threadmarkCategory"); // Kept for completeness, though not in the example HTML.
+            const threadmarkCategoryEl = postContainer.querySelector(".threadmarkCategory");
 
             const threadmarkLabel = threadmarkLabelEl?.textContent?.trim();
             const threadmarkCategory = threadmarkCategoryEl?.textContent?.trim();
