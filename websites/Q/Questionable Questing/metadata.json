@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.15",
+  "apiVersion": 1,
+  "author": {
+    "id": "327849142774923266",
+    "name": "Liz"
+  },
+  "service": "Questionable Questing",
+  "altnames": [
+    "QQ",
+    "QuestionableQuesting"
+  ],
+  "description": {
+    "en": "QuestionableQuesting is a creative writing and questing forum focused on interactive storytelling, fiction, and community-driven narratives."
+  },
+  "url": "forum.questionablequesting.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/2k5FDbp.png",
+  "thumbnail": "https://i.imgur.com/000000.png",
+  "color": "#000000",
+  "category": "other",
+  "iframe": false,
+  "tags": [
+    "forum",
+    "community",
+    "discussion",
+    "writing",
+    "fiction"
+  ],
+   "settings": [
+    {
+      "id": "showReading",
+      "title": "Show Thread Reading Status",
+      "icon": "fas fa-book-open",
+      "value": true
+    },
+    {
+      "id": "showBrowsing",
+      "title": "Show Browsing Details",
+      "icon": "fas fa-eye",
+      "value": true
+    }
+  ]
+}
